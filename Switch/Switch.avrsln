@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "Switch", "Switch\Switch.avrgccproj", "{33B858E6-A962-46EA-9E49-ECED5F76779B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B858E6-A962-46EA-9E49-ECED5F76779B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{33B858E6-A962-46EA-9E49-ECED5F76779B}.Debug|AVR.Build.0 = Debug|AVR
+		{33B858E6-A962-46EA-9E49-ECED5F76779B}.Release|AVR.ActiveCfg = Release|AVR
+		{33B858E6-A962-46EA-9E49-ECED5F76779B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
